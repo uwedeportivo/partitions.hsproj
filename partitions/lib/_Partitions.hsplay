@@ -1,0 +1,21 @@
+-- Haskell Playground 1.0
+firstPartitionOfSize 11 4
+
+nextPartitionOfSize [8,1,1,1]
+nextPartitionOfSize [7,2,1,1]
+nextPartitionOfSize [6,3,1,1]
+nextPartitionOfSize [5,4,1,1]
+nextPartitionOfSize [6,2,2,1]
+nextPartitionOfSize [5,3,2,1]
+nextPartitionOfSize [4,4,2,1]
+nextPartitionOfSize [4,3,3,1]
+nextPartitionOfSize [5,2,2,2]
+nextPartitionOfSize [4,3,2,2]
+nextPartitionOfSize [3,3,3,2]
+
+partitionsOfSize 11 4
+
+partitionsOfSize 20 4
+
+partitions 15
+
